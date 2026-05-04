@@ -1,0 +1,6 @@
+01234567890, AutoElite SGV, 1250000, 450, 12, Via Montenapoleone, 15/A, San Giovanni Valdarno, 20121, 2
+98765432101, AutoElite Pistoia, 850000, 320, 8, Via del Corso, 22, Pistoia, 00186, 10
+11223344556, AutoElite Grosseto, 700000, 120, 25, Corso Francia, 102, Grosseto, 10143, 10
+55667788990, AutoElite Siena, 420000, 150, 6, Via Toledo, 3, Siena, 80132, 2
+99887766554, AutoElite Castiglioncello, 780000, 280, 15, Via Indipendenza, 45/bis, Castiglioncello, 40121, 2
+44332211009, AutoElite Firenze, 1000000, 80, 20, Viale dei Mille, 12, Firenze, 50131, 10
